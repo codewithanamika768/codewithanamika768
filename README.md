@@ -1,6 +1,6 @@
 # Hi, I'm Anamika!
 
-### Junior Full Stack Developer
+###Full Stack Developer
 
 I am a motivated **Junior Full Stack Software Developer** passionate about building scalable web applications and intuitive mobile solutions. I enjoy working across the entire development stack, from crafting responsive frontends to engineering robust backends.
 
